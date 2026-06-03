@@ -1,4 +1,4 @@
-# 
+# 独家 trend-following bot 模板 Mac OS版 | 专业 trend-following bot 模板 PC Windows版。集成 配对交易 和 高频执行，跨平台性能最大化。
 
 
 
